@@ -1,7 +1,7 @@
 <resources>
     <!--  app名称   -->
     <string name="app_name">苗家TV</string>
-        // Home Page //
+    // Home Page //
     <string name="hm_ok">加载成功</string>
     <string name="hm_notok">加载失败</string>
 </resources>
